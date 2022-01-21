@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# Test page
+M.Sc. Computer Science working as doctoral researcher in the field of Marine Data Science, bridging computer science with marine domain sciences at GEOMAR Helmholtz Centre for Ocean Research in Kiel.

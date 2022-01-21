@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science, Julius-Maximilian University of Würzburg, 2018
+* M.Sc. in Computer Science, Julius-Maximilian University of Würzburg, 2021 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since November 2021: Doctoral Researcher
+  * GEOMAR Helmhotlz Centre for Ocean Research Kiel
+  * MarDATA Helmholtz School for Marine Data Science
+  * PhD Student CAU Kiel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: Software Developer, Research Assistant
+  * Chair of Human-Computer Interaction
+  * Julius-Maximilian University of Würzburg
   
 Skills
 ======
@@ -42,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

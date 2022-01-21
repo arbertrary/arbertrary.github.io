@@ -9,7 +9,7 @@ author_profile: true
    <body style='overflow:hidden; width=50%'>
       <iframe name='my publications' 
           src='https://www.bibsonomy.org/user/abernstetter/myown?items=1000&resourcetype=publication&sortPage=year&sortPageOrder=desc&format=embed' 
-          height='300' 
+          height='500px' 
           width='100%' 
           style='border: none; overflow:hidden;position:relative;'>
       <p>
