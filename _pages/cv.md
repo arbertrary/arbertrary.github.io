@@ -25,11 +25,11 @@ Work experience
   * Chair of Human-Computer Interaction
   * Julius-Maximilian University of Würzburg
   
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Talks
 ======

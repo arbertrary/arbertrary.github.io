@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020_04_emote_controlled
 excerpt: ''
 date: 2020-04-19
-venue: 'Journal 1'
+venue: 'ACM Transactions on Social Computing, Volume 3, Issue 2, June 2020'
 paperurl: 'https://dl.acm.org/doi/10.1145/3365523'
 citation: 'Kobs, K., Zehe, A., Bernstetter, A., Chibane, J., Pfister, J., Tritscher, J., and Hotho, A.
 (2020). &quot;Emote-controlled: Obtaining implicit viewer feedback through emote-based
