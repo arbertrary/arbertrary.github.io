@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 
+<!--
 <html>
    <body style='overflow:hidden; width=50%'>
       <iframe name='my publications' 
@@ -29,3 +30,4 @@ author_profile: true
       </iframe>
    </body>
 </html>
+-->
