@@ -22,6 +22,7 @@ We present two case studies showing the effectiveness of our methods in generati
 
 We make our datasets and code publicly available for further research.
 
+## Bibtex
 
 ```bibtex
 @article{10.1145/3365523,
