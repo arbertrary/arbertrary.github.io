@@ -20,10 +20,10 @@ To overcome the challenge posed by the nonstandard language, we propose two unsu
 
 We present two case studies showing the effectiveness of our methods in generating sentiment trajectories for events live streamed on Twitch.tv that correlate well with specific topics in the given stream. This allows for a new kind of implicit real-time feedback gathering for Twitch streamers and companies producing games or streaming content on Twitch.
 
-We make our datasets and code publicly available for further research.1
+We make our datasets and code publicly available for further research.
 
 
-```
+```bibtex
 @article{10.1145/3365523,
 author = {Kobs, Konstantin and Zehe, Albin and Bernstetter, Armin and Chibane, Julian and Pfister, Jan and Tritscher, Julian and Hotho, Andreas},
 title = {Emote-Controlled: Obtaining Implicit Viewer Feedback Through Emote-Based Sentiment Analysis on Comments of Popular Twitch.Tv Channels},
