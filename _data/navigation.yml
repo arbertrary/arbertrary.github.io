@@ -9,6 +9,8 @@ main:
   - title: "Posters"
     url: /posters/
 
+  - title: "Software"
+    url: /software/
   #- title: "Teaching"
   #  url: /teaching/    
     
